@@ -11,3 +11,12 @@ What is gulp?
     Use npm modules to do anything you want + over 2000 curated plugins for streaming file transformations
   Simple - 
     By providing only a minimal API surface, gulp is easy to learn and simple to use
+
+
+Installation:
+
+  There are a few ways to install:
+
+    gulp v4.0.0 - npm install gulp@next
+    gulp v4.0.0-alpha.3 - npm install gulpjs/gulp#v4.0.0-alpha.3
+    gulp v3.9.1 - npm install gulp
